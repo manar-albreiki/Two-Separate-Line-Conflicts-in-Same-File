@@ -1,3 +1,7 @@
 Company Name: Tech Solutions
+Location: London
+Phone: 555-9999
+
 Location: San Francisco
 Phone: 555-1234
+
